@@ -6,8 +6,8 @@ Requires an account with weatherapi.com
 ![picow-weather-display](https://user-images.githubusercontent.com/109281779/179016934-224a2b74-aae6-4662-a2ac-50432a58513e.jpg)
 
 # Instructions
-White button is for moving to the next element.
-Blue button is for moving to the previous element.
+* White button is for moving to the next element.
+* Blue button is for moving to the previous element.
 
 
 # Resources:
