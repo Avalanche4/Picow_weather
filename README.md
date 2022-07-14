@@ -5,9 +5,9 @@ Requires an account with weatherapi.com
 # PicoW weather display 
 ![picow-weather-display](https://user-images.githubusercontent.com/109281779/179016934-224a2b74-aae6-4662-a2ac-50432a58513e.jpg)
 
-#instructions
-Whitebutton is for forwards for the display.
-Blue button is for backwards for the display.
+# Instructions
+White button is for moving to the next element.
+Blue button is for moving to the previous element.
 
 
 # Resources:
