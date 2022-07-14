@@ -3,7 +3,8 @@ It downloads weather display using the wireless connection and displacys it on a
 Requires an account with weatherapi.com
 
 
-Resources
+
+# Resources:
 IP lookup - https://ip4.seeip.org/ 
 
 IP geo location -  https://ip-api.com/
