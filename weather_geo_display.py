@@ -73,7 +73,7 @@ redraw(lcd, count) # Draw the first field and then loop waiting for button press
 while True:
     if button.value():
         count = count + 1
-        if count >= 6:
+        if count > 6:
             count = 1
         redraw(lcd, count)
     elif button_2.value():
