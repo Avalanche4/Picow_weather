@@ -1,5 +1,5 @@
 # Picow_weather
-It downloads weather display using the wireless connection and displacys it on a lcd weather display, with to button control to change what it displays.
+It downloads the weather forcast using a wireless connection, and displays it on a lcd  display, with two buttons to change what it displays.
 Requires an account with weatherapi.com
 
 # PicoW weather display 
