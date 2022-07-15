@@ -5,21 +5,27 @@ Requires an account with weatherapi.com
 # PicoW weather display 
 ![picow-weather-display](https://user-images.githubusercontent.com/109281779/179016934-224a2b74-aae6-4662-a2ac-50432a58513e.jpg)
 
-# Instructions
+# Helpful information
 * White button is for moving to the next element.
 * Blue button is for moving to the previous element.
 
 
-
-| 1| I2CO SDA |  |
+| Pin number| Pin type|where the cable is going |
 | --- | --- | --- | 
-| 2 | I2CO SCL | |
-| 19 | GP14  | |
-| 20 | GP15 | |
-| 40 | VBUS | |
-| 38 | GND | | 
-| 38 | GND | |
-| 36 | 3V3(OUT)| |
+| 1| I2CO SDA | SDA Connection |
+| 2 | I2CO SCL |SCL connection|
+| 19 | GP14  |Blue button |
+| 20 | GP15 |White button|
+| 40 | VBUS |VCC  connetion|
+| 38 | GND |GND connection | 
+| 38 | GND |Negative Rail on bread board|
+| 36 | 3V3(OUT)|Posative Rail on bread board|
+
+# Equipment:
+* Pico w
+* Two buttons
+* I2C HD44780 (adapter for the display)
+* I2C LCD screen
 
 # Resources:
 IP lookup - https://ip4.seeip.org/ 
