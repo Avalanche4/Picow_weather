@@ -10,6 +10,17 @@ Requires an account with weatherapi.com
 * Blue button is for moving to the previous element.
 
 
+
+| 1| I2CO SDA |  |
+| --- | --- | --- | 
+| 2 | I2CO SCL | |
+| 19 | GP14  | |
+| 20 | GP15 | |
+| 40 | VBUS | |
+| 38 | GND | | 
+| 38 | GND | |
+| 36 | 3V3(OUT)| |
+
 # Resources:
 IP lookup - https://ip4.seeip.org/ 
 
